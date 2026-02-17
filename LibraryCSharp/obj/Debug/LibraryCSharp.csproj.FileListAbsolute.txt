@@ -1,0 +1,10 @@
+D:\School\Project C#\LibraryCSharp\LibraryCSharp\bin\Debug\LibraryCSharp.exe.config
+D:\School\Project C#\LibraryCSharp\LibraryCSharp\bin\Debug\LibraryCSharp.exe
+D:\School\Project C#\LibraryCSharp\LibraryCSharp\bin\Debug\LibraryCSharp.pdb
+D:\School\Project C#\LibraryCSharp\LibraryCSharp\obj\Debug\LibraryCSharp.csprojAssemblyReference.cache
+D:\School\Project C#\LibraryCSharp\LibraryCSharp\obj\Debug\LibraryCSharp.Form1.resources
+D:\School\Project C#\LibraryCSharp\LibraryCSharp\obj\Debug\LibraryCSharp.Properties.Resources.resources
+D:\School\Project C#\LibraryCSharp\LibraryCSharp\obj\Debug\LibraryCSharp.csproj.GenerateResource.cache
+D:\School\Project C#\LibraryCSharp\LibraryCSharp\obj\Debug\LibraryCSharp.exe
+D:\School\Project C#\LibraryCSharp\LibraryCSharp\obj\Debug\LibraryCSharp.pdb
+D:\School\Project C#\LibraryCSharp\LibraryCSharp\obj\Debug\LibraryCSharp.LoginForm.resources
